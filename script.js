@@ -30,6 +30,22 @@ class Teacher extends Person {
   }
 }
 
+ const person = new Person("Unknown",20);
+console.log(person.name); 
+console.log(person.age); 
+ 
+
+const student = new Student();
+ 
+cat.study(); 
+ 
+
+const teacher = new Teacher();
+ 
+dog.teach(); 
+ 
+
+
 // Do not change the code below this line
 window.Person = Person;
 window.Student = Student;
