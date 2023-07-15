@@ -37,12 +37,12 @@ console.log(person.age);
 
 const student = new Student();
  
-cat.study(); 
+student.study(); 
  
 
 const teacher = new Teacher();
  
-dog.teach(); 
+teacher.teach(); 
  
 
 
